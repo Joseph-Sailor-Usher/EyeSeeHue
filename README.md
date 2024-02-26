@@ -17,6 +17,6 @@ Our dynamic difficulty system ensures that the game is never too easy or too har
 
 ## Features
 
-- **Adaptive Gameplay**:
-- **In-App Purchases**: 
-- **Ads Integration**:
+- **Adaptive Gameplay**
+- **In-App Purchases**
+- **Ads Integration**
